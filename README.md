@@ -302,6 +302,6 @@ This project was built to develop a deeper understanding of:
 
 ## Author
 
-**Hossein**
+**Moein Hossein**
 
 This project is part of my hands-on study of machine learning and deep learning fundamentals.
