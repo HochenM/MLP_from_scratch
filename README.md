@@ -191,8 +191,10 @@ Bias correction is then applied before updating the parameters.
 The parameter update follows the general form:
 
 $$
+
 \theta_t =
 \theta_{t-1}
+
 ------------
 
 \alpha
